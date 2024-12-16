@@ -9,7 +9,7 @@
     --primaryLight: #ffba43;
     --secondary: #ffba43;
     --secondaryLight: #ffba43;
-    --headerColor: #1a1a1a;
+    --headerColor: #ffffff;
     --bodyTextColor: #4e4b66;
     --bodyTextColorWhite: #fafbfc;
     /* 13px - 16px */
@@ -67,7 +67,7 @@ body {
     #sbs-r-1892 {
       width: 100%;
       padding: var(--sectionPadding);
-      background-color: #faf6f2;
+      background-color: #2c2b2a;
       display: flex;
       flex-direction: column;
       /* aligns content to the left, set to center to centrally align */
