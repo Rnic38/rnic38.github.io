@@ -119,7 +119,7 @@ body {
       right: 0;
       z-index: -1;
     }
-    #sbs-r-1892 .cs-picture img {
+    /* #sbs-r-1892 .cs-picture img {
       width: 100%;
       height: 100%;
       object-fit: cover;
@@ -127,7 +127,7 @@ body {
       top: 0;
       left: 0;
       transition: transform 0.7s;
-    }
+    } */
     #sbs-r-1892 .cs-graphic {
       height: auto;
       position: absolute;
